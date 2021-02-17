@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="custom_button_padding">10dp</dimen>
+    <dimen name="custom_button_radius">4dp</dimen>
+    <dimen name="custom_button_stroke">1dp</dimen>
+    <dimen name="custom_button_text_size">16sp</dimen>
+    <dimen name="padding_default">16dp</dimen>
+
+    <dimen name="title_text_size">28dp</dimen>
+    <dimen name="sub_title_text_size">18dp</dimen>
+
+    <dimen name="dispenser_icon_size">178dp</dimen>
+
+    <dimen name="header_stroke">19dp</dimen>
+
+</resources>
